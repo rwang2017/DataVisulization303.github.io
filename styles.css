@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: justify;
+  }
+  
+  #visualization-container {
+    padding: 50px;
+  }
+  
+  .visualization {
+    display: none;
+  }
+  
+  .visualization.active {
+    display: block;
+  }
